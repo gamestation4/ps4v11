@@ -1,0 +1,6 @@
+host.py
+*.bin
+**/patches/*.bin
+.DS_Store
+Thumbs.db
+node_modules/
